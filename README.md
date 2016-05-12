@@ -9,4 +9,4 @@ where and how are the project files compiled?
 
 
 I believe this is the edits file; it starts out as an exact copy of the master
-But the branch will now include edites to the file.
+But the branch will now include edits to the file.
